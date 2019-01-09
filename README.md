@@ -1,2 +1,2 @@
 # hello-world
-practice for gw lawvs
+practice for gw labs
